@@ -1,3 +1,8 @@
+# Delen Private Bank - Components Docs
+Here you can find an overview that links to the docs of our components.
+
+Alternatively you can also check out our hosted demo app at this url: https://delenprivatebank.github.io/components/
+
 * [action-slider](docs/action-slider.md)
 * [attachment](docs/attachment.md)
 * [avatar](docs/avatar.md)
